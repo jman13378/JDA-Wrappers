@@ -10,6 +10,7 @@
 ## Usage
 
 ### Listener
+**[Note]: This is the part where you should check the bots permissions**
 
 1. Create a listener class 
 2. Make the class extend [ListenerAdapter](https://ci.dv8tion.net/job/JDA5/javadoc/net/dv8tion/jda/api/hooks/ListenerAdapter.html) `public class foobar extends ListenerAdapter {...}`
@@ -31,7 +32,12 @@
 
 ### Text Commands
 
-#### TBA
+1. Create a Java class
+2. Make the class extend [Command](https://github.com/jman13378/JDA-Wrappers/blob/main/TextCommands/Command.java) `public class foobar extends Command {...}`
+3. Add the methods 
+    - `public void execute(CommandEvent event) {...}`
+    - `public foobar() { super(String command) }`
+4. Add your code
 
 ## License
 
