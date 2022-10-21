@@ -28,6 +28,7 @@ import java.util.HashMap;
 
 import SlashCommand;
 import SlashCommandEvent;
+import Shop;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
@@ -37,7 +38,7 @@ public class Listener extends ListenerAdapter {
 	private static final HashMap<String, SlashCommand> commands = new HashMap();
     public MainListener() {
     	ArrayList<SlashCommand> botCommands = new ArrayList<>(Arrays.asList(
-    			new Chop()));
+    			new Shop()));
     	for (SlashCommand command : botCommands) {
     		commands.put(command.getName().toLowerCase(), command);
     	}
