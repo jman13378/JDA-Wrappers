@@ -1,5 +1,12 @@
 # JDA-Wrappers
 
+- [Usage](https://github.com/jman13378/JDA-Wrappers#usage)
+    - [Listener](https://github.com/jman13378/JDA-Wrappers#Listener)
+    - [Slash Commands](https://github.com/jman13378/JDA-Wrappers#slash-commands)
+    - [Text Commands](https://github.com/jman13378/JDA-Wrappers#text-commands)
+- [License](https://github.com/jman13378/JDA-Wrappers#License)
+
+
 ## Usage
 
 ### Listener
