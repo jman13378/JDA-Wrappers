@@ -1,11 +1,16 @@
 # JDA-Wrappers
 
+- [What is this?](https://github.com/jman13378/JDA-Wrappers#License)
 - [Usage](https://github.com/jman13378/JDA-Wrappers#usage)
     - [Listener](https://github.com/jman13378/JDA-Wrappers#Listener)
     - [Slash Commands](https://github.com/jman13378/JDA-Wrappers#slash-commands)
     - [Text Commands](https://github.com/jman13378/JDA-Wrappers#text-commands)
 - [License](https://github.com/jman13378/JDA-Wrappers#License)
 
+## What are these for?
+These are wrappers, wrappers allow you to create Slash and Text commands without using a ton of code
+
+<b>TBA</b>
 
 ## Usage
 
