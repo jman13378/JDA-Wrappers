@@ -1,6 +1,6 @@
 # JDA-Wrappers
 
-- [What is this?](https://github.com/jman13378/JDA-Wrappers#License)
+- [What is this?](https://github.com/jman13378/JDA-Wrappers/blob/main/README.md#what-are-these-for)
 - [Usage](https://github.com/jman13378/JDA-Wrappers#usage)
     - [Listener](https://github.com/jman13378/JDA-Wrappers#Listener)
     - [Slash Commands](https://github.com/jman13378/JDA-Wrappers#slash-commands)
