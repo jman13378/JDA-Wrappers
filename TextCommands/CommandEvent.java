@@ -306,11 +306,12 @@ public class CommandEvent {
     }
     /**
      * gets the text channel
-     *
+     * 
+     * @see MessageChannelUnion
      * @return String, the text channel
      */
-    public TextChannel getTextChannel() {
-        return this.event.getChannel().asTextChannel();
+    public MessageChannelUnion getChannel() {
+        return this.event.getChannel();
     }
 
 	/**
