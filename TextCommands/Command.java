@@ -22,5 +22,5 @@ public abstract class Command {
     /**
      * what the command executes
      */
-    public abstract void execute(CommandEvent var1);
+    public abstract void execute(CommandEvent event);
 }
