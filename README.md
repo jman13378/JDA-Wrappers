@@ -14,6 +14,9 @@ These are wrappers, wrappers allow you to create Slash and Text commands without
 
 ## Usage
 
+### IMPORTANT
+When creating these make sure to register your listener in your startup code
+
 ### Listener
 **[Note]: This is the part where you should check the bots permissions**
 
